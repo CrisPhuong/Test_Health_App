@@ -20,6 +20,10 @@ module.exports = {
           400: '#777',
         },
       },
+      fontFamily: {
+        noto: ['Noto Sans JP'],
+        inter: ['Inter'],
+      },
     },
   },
   plugins: [],
