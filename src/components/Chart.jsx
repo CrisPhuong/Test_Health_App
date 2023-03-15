@@ -25,7 +25,6 @@ const ChartComponent = ({ data, options, title }) => {
   return (
     <div className="px-12 pt-12 bg-dark-600">
       {!!title && title}
-
       <Line data={data} options={options} />
     </div>
   );

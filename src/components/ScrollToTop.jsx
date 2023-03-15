@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 
 import arrowRounded from '../assets/img/arrow_rounded.svg';
 
