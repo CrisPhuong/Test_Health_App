@@ -16,7 +16,7 @@ const DiaryComponent = () => {
                 2021.05.21 <br /> 23:25
               </h4>
 
-              <p>
+              <p className="font-noto">
                 私の日記の記録が一部表示されます。
                 テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト…
               </p>
@@ -25,7 +25,7 @@ const DiaryComponent = () => {
         </div>
 
         <div className="text-center mb-16">
-          <button className="bg-gradient-to-b from-primary-300 to-primary-400 text-lg text-white rounded-lg p-4 w-72">
+          <button className="bg-gradient-to-b from-primary-300 to-primary-400 text-lg text-white rounded-lg p-4 w-72 font-noto">
             自分の日記をもっと見る
           </button>
         </div>

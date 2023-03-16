@@ -20,7 +20,7 @@ const ExerciseComponent = () => {
                 key={item}
               >
                 <div className="flex-1">
-                  <p className="text-white">家事全般（立位・軽い</p>
+                  <p className="text-white font-noto">家事全般（立位・軽い</p>
 
                   <p className="text-primary-300">26kcal</p>
                 </div>

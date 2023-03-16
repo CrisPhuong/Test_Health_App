@@ -5,7 +5,7 @@ const FooterComponent = () => {
     <footer className="bg-dark-500 py-14">
       <div className="container mx-auto">
         <nav>
-          <ul className="flex">
+          <ul className="flex font-noto">
             <li>
               <a href="#" className="px-6 text-white">
                 会員登録

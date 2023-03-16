@@ -52,7 +52,7 @@ const NavigationComponent = () => {
             <li key={route.id}>
               <Link
                 to={route.url}
-                className="text-white block py-5 px-8 border-t border-solid border-t-white border-b-dark-600 border-opacity-20"
+                className="text-white block py-5 px-8 border-t border-solid border-t-white border-b-dark-600 border-opacity-20 font-noto"
               >
                 {route.text}
               </Link>
@@ -77,7 +77,7 @@ const HeaderComponent = () => {
             </Link>
           </div>
 
-          <div className="flex-1">
+          <div className="flex-1 font-noto">
             <nav>
               <ul className="flex justify-end">
                 <li>

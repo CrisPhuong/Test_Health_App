@@ -48,7 +48,7 @@ const RecordOptionComponent = () => {
               <div className="absolute left-0 top-1/2 w-full -translate-y-1/2 text-center">
                 <h2 className="text-primary-300 text-2xl mb-4">{item.title}</h2>
 
-                <p className="bg-primary-400 text-white px-6 py-1 inline-block">
+                <p className="bg-primary-400 text-white px-6 py-1 inline-block font-noto">
                   {item.text}
                 </p>
               </div>
